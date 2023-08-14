@@ -1,0 +1,7 @@
+# Weather-Tracker
+This is a simple weather-tracking application built using the OpenWeatherMap API and the Tkinter library in Python. It allows users to enter a city name and retrieve weather information for that city.
+This script creates a simple GUI application that lets users input a city name, fetches weather data from the OpenWeatherMap API, and displays the weather conditions, temperature, min/max temperature, pressure, humidity, wind speed, sunrise, and sunset times for the specified city. Users can interact with the application through the GUI, and the weather data is updated upon submitting a new city name.this script creates a simple GUI application that lets users input a city name, fetches weather data from the OpenWeatherMap API, and displays the weather conditions, temperature, min/max temperature, pressure, humidity, wind speed, sunrise, and sunset times for the specified city. Users can interact with the application through the GUI, and the weather data is updated upon submitting a new city name.this script creates a simple GUI application that lets users input a city name, fetches weather data from the OpenWeatherMap API, and displays the weather conditions, temperature, min/max temperature, pressure, humidity, wind speed, sunrise, and sunset times for the specified city. Users can interact with the application through the GUI, and the weather data is updated upon submitting a new city name.
+
+
+
+
